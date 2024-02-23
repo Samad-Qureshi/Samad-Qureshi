@@ -1,6 +1,6 @@
 # React Native Mobile Application Developer
 
-Welcome to my GitHub profile! 👋 I'm Samad Qureshi, a passionate software engineer specializing in building mobile applications using React Native and JavaScript. With [X] years of experience in the field, I thrive on crafting innovative and user-friendly solutions for both Android and iOS platforms.
+Welcome to my GitHub profile! 👋 I'm Samad Qureshi, a passionate software engineer specializing in building mobile applications using React Native and JavaScript. With 2+ years of experience in the field, I thrive on crafting innovative and user-friendly solutions for both Android and iOS platforms.
 
 ## About Me
 
