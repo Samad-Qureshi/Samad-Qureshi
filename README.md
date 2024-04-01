@@ -22,5 +22,3 @@ In this GitHub repository, you'll find a collection of my projects, ranging from
 Feel free to explore the code, raise issues, or reach out to me for collaboration opportunities. I'm always excited to connect with fellow developers and contribute to meaningful projects together!
 
 ---
-
-Feel free to customize it according to your specific experience, projects, and preferences. Happy coding! 🚀
